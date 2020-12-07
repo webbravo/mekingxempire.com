@@ -1113,7 +1113,7 @@ body[data-theme='light'] .dark-mode-texts .light-shape.default-shape,
     display: block;
     position: fixed;
     top: 0;
-    background: var(--bg);
+    background: #272578;
     left: -100%;
     padding-left: 20px;
     padding-right: 20px;
@@ -1198,6 +1198,7 @@ body[data-theme='light'] .dark-mode-texts .light-shape.default-shape,
   .offcanvas-active.navbar-expand-lg .main-menu>li .gr-menu-dropdown>li a {
     padding-top: 13px;
     padding-bottom: 13px;
+    color: #FED500;
   }
 
   .offcanvas-active.navbar-expand-lg .main-menu>li:last-child {
